@@ -1,0 +1,13 @@
+name: "jenga-website"
+navbar:
+  title: "JENGA"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Francais"
+      href: francais.html
+    - text: "English"
+      href: francais.html
+output:
+  html_document:
+    theme: yeti
